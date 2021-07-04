@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = sajid.i.akhtar@gmail.com
+	name = Sajid Akhtar
